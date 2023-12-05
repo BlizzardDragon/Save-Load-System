@@ -19,9 +19,8 @@ namespace SaveLoad
 
         private void BindSaveLoadSystems()
         {
-            Container.Bind<GameRepositoryBinary>().AsSingle();
             Container.Bind<SaveLoadManager>().FromComponentInHierarchy().AsSingle();
-
+            
             Container.Bind<ISaveLoader>().To<PlayerResourcesSaveLoader>().AsCached();
             Container.Bind<ISaveLoader>().To<SceneResourcesSaveLoader>().AsCached();
             Container.Bind<ISaveLoader>().To<SceneUnitsSaveLoader>().AsCached();
