@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a1e24bc3d60af47beaefb264310245, type: 3}
+  m_Name: DefaultSceneResourcesConfig
+  m_EditorClassIdentifier: 
+  _sceneResourcesData:
+    DataArray:
+    - Position:
+      - 16.27
+      - 0
+      - -0.7299984
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      RemainingCount: 8
+      <Type>k__BackingField: 1
+    - Position:
+      - 17.619999
+      - 0.4783554
+      - 0.4601738
+      Rotation:
+      - 0.40009242
+      - -0
+      - -0
+      - 0.9164748
+      RemainingCount: 6
+      <Type>k__BackingField: 1
+    - Position:
+      - 18.83
+      - 0
+      - -0.4799984
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      RemainingCount: 3
+      <Type>k__BackingField: 1
+    - Position:
+      - 5.0699997
+      - 0.0036182404
+      - 11.155793
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      RemainingCount: 25
+      <Type>k__BackingField: 3
+    - Position:
+      - 4.5299997
+      - 0.0016860962
+      - 12.77134
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      RemainingCount: 25
+      <Type>k__BackingField: 3
+    - Position:
+      - 21.81
+      - -0.0009841919
+      - 13.765923
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      RemainingCount: 25
+      <Type>k__BackingField: 3

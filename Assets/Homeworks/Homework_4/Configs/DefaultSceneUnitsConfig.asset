@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c67314560135ac42b2d195833a5f878, type: 3}
+  m_Name: DefaultSceneUnitsConfig
+  m_EditorClassIdentifier: 
+  _sceneUnitsData:
+    DataArray:
+    - Position:
+      - 7.94
+      - 0
+      - 0.48
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 10
+      Speed: 7
+      Damage: 3
+      <Type>k__BackingField: 1
+    - Position:
+      - 9.72
+      - 0
+      - -1.11
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 3
+      Speed: 7
+      Damage: 3
+      <Type>k__BackingField: 1
+    - Position:
+      - 14.33
+      - 0
+      - 1.06
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 2
+      Speed: 20
+      Damage: 4
+      <Type>k__BackingField: 2
+    - Position:
+      - 12.37
+      - 0
+      - 3.45
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 20
+      Speed: 1
+      Damage: 5
+      <Type>k__BackingField: 0
+    - Position:
+      - 10.75
+      - 0
+      - 4.97
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 12
+      Speed: 1
+      Damage: 5
+      <Type>k__BackingField: 0
+    - Position:
+      - 9.91
+      - 0
+      - 2.47
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 7
+      Speed: 1
+      Damage: 5
+      <Type>k__BackingField: 0
+    - Position:
+      - 8.05
+      - 0
+      - 5.72
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 12
+      Speed: 1
+      Damage: 5
+      <Type>k__BackingField: 0
+    - Position:
+      - 6.47
+      - 0
+      - 3.44
+      Rotation:
+      - -0
+      - -0
+      - -0
+      - 1
+      HitPoints: 12
+      Speed: 1
+      Damage: 5
+      <Type>k__BackingField: 0
+    - Position:
+      - 6.46
+      - 0
+      - 14.83
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 2
+      Speed: 8
+      Damage: 2
+      <Type>k__BackingField: 4
+    - Position:
+      - 8.59
+      - 0
+      - 12.32
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 2
+      Speed: 8
+      Damage: 2
+      <Type>k__BackingField: 4
+    - Position:
+      - 9.18
+      - 0
+      - 16.95
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 2
+      Speed: 1
+      Damage: 20
+      <Type>k__BackingField: 5
+    - Position:
+      - 11.77
+      - 0
+      - 19.7
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 6
+      Speed: 1
+      Damage: 20
+      <Type>k__BackingField: 5
+    - Position:
+      - 12.13
+      - 0
+      - 13.86
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 3
+      Speed: 1
+      Damage: 20
+      <Type>k__BackingField: 5
+    - Position:
+      - 15.78
+      - 0
+      - 12.79
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 12
+      Speed: 3
+      Damage: 7
+      <Type>k__BackingField: 3
+    - Position:
+      - 17.52
+      - 0
+      - 14.58
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 8
+      Speed: 3
+      Damage: 7
+      <Type>k__BackingField: 3
+    - Position:
+      - 15.21
+      - 0
+      - 15.46
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 3
+      Speed: 3
+      Damage: 7
+      <Type>k__BackingField: 3
+    - Position:
+      - 16.63
+      - 0
+      - 17.55
+      Rotation:
+      - -0
+      - 1
+      - -0
+      - 0
+      HitPoints: 1
+      Speed: 3
+      Damage: 7
+      <Type>k__BackingField: 3
